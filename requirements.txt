@@ -83,7 +83,7 @@ python3-openid==3.1.0
 pytube==9.3.5
 pytz==2018.5
 redis==3.0.1
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 requests-toolbelt==0.8.0
 rsa==4.0
