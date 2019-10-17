@@ -15,7 +15,7 @@ chardet==3.0.4
 clever-python==3.0.2
 decorator==4.3.0
 defusedxml==0.5.0
-Django==2.1.2
+Django==2.1.11
 django-braces==1.13.0
 django-celery==3.2.2
 django-celery-beat==1.2.0
