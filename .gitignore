@@ -1,0 +1,12 @@
+.idea/*
+*.pyc
+__pycache__
+*.pc
+*.pyo
+*.DS_Storeuuuudea/*
+*.pyc
+__pycache__
+*.pc
+*.pyo
+*.DS_Store
+media/*

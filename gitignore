@@ -1,0 +1,6 @@
+dea/*
+*.pyc
+__pycache__
+*.pc
+*.pyo
+*.DS_Store
