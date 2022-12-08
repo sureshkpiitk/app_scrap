@@ -10,7 +10,7 @@ boto3==1.9.43
 botocore==1.12.43
 cachetools==2.1.0
 celery==4.2.1
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 clever-python==3.0.2
 decorator==4.3.0
